@@ -1,0 +1,6 @@
+version: '2'
+services:
+  08c7355008df:
+    image: 'sha256:08c7355008dff66cc8df69470903bc10295f095bc820ddc75bae212b47555b77'
+    ports:
+      - '80'
